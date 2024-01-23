@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Evgeni. I am currently on my path to Java pinnacle but you can already check out some of my personal/pet projects:
+My name is Evgeni. Here you can check out some of my personal/pet Java projects:
 
 * ['L2R name transcriptor'](https://github.com/EvgeniPolyakov/L2R-name-transcriptor) - Latin-to-Cyrillic name transcriptor 
 * ['Explore with me'](https://github.com/EvgeniPolyakov/java-explore-with-me) - social network for people to plan/attend common events 
